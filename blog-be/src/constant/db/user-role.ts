@@ -1,0 +1,6 @@
+export enum UserRole {
+  TYPE_ADMIN = 'ADMIN',
+  TYPE_MODERATOR = 'MODERATOR',
+  TYPE_USER = 'USER',
+  TYPE_AUTHOR = 'AUTHOR',
+}
